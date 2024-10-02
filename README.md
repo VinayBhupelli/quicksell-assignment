@@ -38,3 +38,5 @@ git add .
 git commit -m "git upload"
 git push -u origin main
 ```
+- add "homepage": "github repo link" in package.json
+  
